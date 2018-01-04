@@ -1,0 +1,8 @@
+Apache
+mysql internal server (dual server)
+nginx
+nodejs
+php: cli + fpm
+ - 5.7
+ - 7.0
+ - 7.1

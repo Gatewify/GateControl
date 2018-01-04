@@ -1,0 +1,4 @@
+Custom Virtual machines codes
+	checkers and others from internal servers
+Custom VM's Original Images
+	for routing, proxying and DNS managment on the internal network.

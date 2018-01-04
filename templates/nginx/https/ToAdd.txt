@@ -1,0 +1,7 @@
+Configs for https:
+	default
+	Wordpress
+	Codeignither
+	https redirect (not a framework, but https redirection to other website)
+	http redirect (not a framework, but redirection to the same url on http)
+	Others

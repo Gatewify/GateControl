@@ -1,0 +1,7 @@
+Custom system scripts
+	checkers and others from internal server
+	(add - folder and/or file md5 checker)
+Custom Firewall
+	for server managment with vm as dns server and redirect managment
+Custom DDOS Protection
+	for Virtual Machines and the others
