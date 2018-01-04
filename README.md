@@ -1,2 +1,2 @@
 # GateControl
-Hosting management and server management
+Hosting and server management
